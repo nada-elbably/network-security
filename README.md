@@ -23,9 +23,9 @@ Designed and implemented a secure network architecture featuring:
 - Networking protocols: OSPF, AAA, IPSec
 
 ## 🖼️ Network Topology
-
 ![Topology Diagram](https://github.com/nada-elbably/network-security/blob/main/topology.png)
 
-
+## 📊 Subnetting Table
+![Topology Diagram](https://github.com/nada-elbably/network-security/blob/main/subnetting.jpeg)
 ---
 
