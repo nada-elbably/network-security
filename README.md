@@ -22,6 +22,9 @@ Designed and implemented a secure network architecture featuring:
 - Cisco ASA
 - Networking protocols: OSPF, AAA, IPSec
 
+## 🖼️ Network Topology
+
+![Topology Diagram](https://github.com/nada-elbably/network-security/blob/main/topology.png)
 
 
 ---
